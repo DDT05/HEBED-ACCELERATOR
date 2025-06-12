@@ -276,7 +276,6 @@ function App() {
             
             <div>
               <img src="https://i.ibb.co/LdX856PD/trust.png" alt="HEBED AI Course Material" border="0" className="w-full h-auto object-contain rounded-lg max-h-96" />
-                //src=""//"../src/assets/trust_.png"
             </div>
           </div>
         </div>
@@ -305,7 +304,7 @@ function App() {
                 quote="I used to think AI was only for big corporations. After Module 2, I automated my customer follow-ups and saved at least 6 hours a week. The templates were practical, and I launched my first chatbot by the end of Week 3. It's like having a digital team working 24/7."
                 author="Grace A., Nairobi"
                 role="Boutique Owner"
-                image="/src/assets/ChatGPT Image Jun 12, 2025, 06_55_18 PM.png"
+                image="src= https://i.ibb.co/60FrgLw0/Confident-Portrait-of-a-Beautiful-Woman.png"
               />
             </div>
             
