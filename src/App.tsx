@@ -276,7 +276,7 @@ function App() {
             
             <div>
               <img 
-                src="https://github.com/DDT05/HEBED-ACCELERATOR/blob/main/src/assets/trust_.png"//"../src/assets/trust_.png"
+                src="https://ibb.co/9HkNt2vm"//"../src/assets/trust_.png"
                 alt="HEBED AI Course Material"
                 className="w-full h-auto object-contain rounded-lg max-h-96"
               />
