@@ -304,7 +304,7 @@ function App() {
                 quote="I used to think AI was only for big corporations. After Module 2, I automated my customer follow-ups and saved at least 6 hours a week. The templates were practical, and I launched my first chatbot by the end of Week 3. It's like having a digital team working 24/7."
                 author="Grace A., Nairobi"
                 role="Boutique Owner"
-                image="src= https://i.ibb.co/60FrgLw0/Confident-Portrait-of-a-Beautiful-Woman.png"
+                image="https://i.ibb.co/60FrgLw0/Confident-Portrait-of-a-Beautiful-Woman.png"
               />
             </div>
             
