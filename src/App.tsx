@@ -275,8 +275,9 @@ function App() {
             </div>
             
             <div>
-              <img 
-                src="https://ibb.co/9HkNt2vm"//"../src/assets/trust_.png"
+              <a href="https://ibb.co/9HkNt2vm"><img src="https://i.ibb.co/LdX856PD/trust.png" alt="trust" border="0" /></a>
+              <img
+                //src=""//"../src/assets/trust_.png"
                 alt="HEBED AI Course Material"
                 className="w-full h-auto object-contain rounded-lg max-h-96"
               />
