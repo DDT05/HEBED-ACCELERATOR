@@ -180,7 +180,7 @@ function App() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <img 
-                src="/src/assets/founders_.png"
+                src="https://i.ibb.co/hFphcTjT/founders.png"
                 alt="HEBED AI Instructors"
                 className="w-full h-auto object-contain rounded-lg max-h-96"
               />
@@ -313,14 +313,14 @@ function App() {
                 quote="This course changed how I work. The AI marketing tools helped me triple my content output. Clients noticed immediately. I even booked two new projects thanks to the portfolio I built using the course exercises."
                 author="Thabo M., Johannesburg"
                 role="Digital Consultant"
-                image="/src/assets/ChatGPT Image Jun 12, 2025, 06_55_31 PM.png"
+                image="https://i.ibb.co/NnN8HwWP/Calm-Portrait-on-Beige-Background.png"
               />
               
               <TestimonialCard
                 quote="The 90-day action plan was gold. It forced us to prioritize, track ROI, and implement automations that actually matter. We're now running leaner and smarter—without needing a full-time ops team."
                 author="John S., Accra"
                 role="SaaS Founder"
-                image="/src/assets/Calm Portrait on Beige Background.png"
+                image="https://i.ibb.co/gbfVNs3D/Confident-Smile-in-Classic-Suit.png"
               />
             </div>
           </div>
