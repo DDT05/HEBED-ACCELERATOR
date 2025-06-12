@@ -275,7 +275,7 @@ function App() {
             </div>
             
             <div>
-              <img src="https://i.ibb.co/LdX856PD/trust.png" alt="HEBED AI Course Material" border="0" className="w-full h-auto object-contain rounded-lg max-h-96"
+              <img src="https://i.ibb.co/LdX856PD/trust.png" alt="HEBED AI Course Material" border="0" className="w-full h-auto object-contain rounded-lg max-h-96" />
                 //src=""//"../src/assets/trust_.png"
             </div>
           </div>
