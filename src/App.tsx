@@ -125,13 +125,13 @@ function App() {
           <div className="bg-gray-800 p-8 rounded-lg max-w-md mx-auto">
             <div className="space-y-4">
               <a 
-                href="https://hebedai-s-site.thinkific.com/enroll/3393889"
+                href="https://docs.google.com/forms/d/e/1FAIpQLScuF5EcIjN2f4ohC1JnoWgqCnStu3SpRrfBV08sKsu6l3377A/viewform?usp=header"
                 className="w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-4 px-8 rounded transition-colors duration-200 block text-center"
               >
                 JOIN PREMIUM ACCELERATOR
               </a>
               <a 
-                href="https://hebedai-s-site.thinkific.com/enroll/3393889?et=free_trial"
+                href="https://docs.google.com/forms/d/e/1FAIpQLScuF5EcIjN2f4ohC1JnoWgqCnStu3SpRrfBV08sKsu6l3377A/viewform?usp=header"
                 className="w-full border-2 border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white font-medium py-4 px-8 rounded transition-colors duration-200 block text-center"
               >
                 FREE COMMUNITY
@@ -248,13 +248,13 @@ function App() {
                 
                 <div className="space-y-4 mb-8">
                   <a 
-                    href="https://hebedai-s-site.thinkific.com/enroll/3393889"
+                    href="https://docs.google.com/forms/d/e/1FAIpQLScuF5EcIjN2f4ohC1JnoWgqCnStu3SpRrfBV08sKsu6l3377A/viewform?usp=header"
                     className="w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-4 px-8 rounded transition-colors duration-200 block text-center"
                   >
                     JOIN PREMIUM ACCELERATOR
                   </a>
                   <a 
-                    href="https://hebedai-s-site.thinkific.com/enroll/3393889?et=free_trial"
+                    href="https://docs.google.com/forms/d/e/1FAIpQLScuF5EcIjN2f4ohC1JnoWgqCnStu3SpRrfBV08sKsu6l3377A/viewform?usp=header"
                     className="w-full border-2 border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white font-medium py-4 px-8 rounded transition-colors duration-200 block text-center"
                   >
                     FREE COMMUNITY
@@ -340,13 +340,13 @@ function App() {
           <div className="bg-gray-800 p-8 rounded-lg max-w-md mx-auto">
             <div className="space-y-4">
               <a 
-                href="https://hebedai-s-site.thinkific.com/enroll/3393889"
+                href="https://docs.google.com/forms/d/e/1FAIpQLScuF5EcIjN2f4ohC1JnoWgqCnStu3SpRrfBV08sKsu6l3377A/viewform?usp=header"
                 className="w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-4 px-8 rounded transition-colors duration-200 block text-center"
               >
                 JOIN PREMIUM ACCELERATOR
               </a>
               <a 
-                href="https://hebedai-s-site.thinkific.com/enroll/3393889?et=free_trial"
+                href="https://docs.google.com/forms/d/e/1FAIpQLScuF5EcIjN2f4ohC1JnoWgqCnStu3SpRrfBV08sKsu6l3377A/viewform?usp=header"
                 className="w-full border-2 border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white font-medium py-4 px-8 rounded transition-colors duration-200 block text-center"
               >
                 FREE COMMUNITY
